@@ -2,7 +2,7 @@
 
 # What it does  
   
-The frontend UI for a Web 3 application, created to enable user interaction with Web 3 technology. 
+The frontend UI for a Web 3 application, created to enable user interaction with a Web 3 client. 
   
 ## Screenshot
 
